@@ -25,7 +25,7 @@ Insights and recommendations are provided on the following key areas:
   
   The DAX measures can be found [here](DAX/measures.dax).
   
-  The Python code can be found [here](python).
+  The Python code can be found [here](Heatmap/heatmap.py).
   
   The visualizations can be found [here](vis).
 
