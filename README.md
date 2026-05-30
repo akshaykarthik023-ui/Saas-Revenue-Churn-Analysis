@@ -37,3 +37,9 @@ The tables were joined using the month column in the monthly_revenue table and t
 
 ## Executive Summary
 ### Overview of Findings
+Despite a strong revenue growth of **83% CAGR** and a healthy CLV to CAC ratio of **39.7**, the company is facing a critical churn rate of **52.17%**.
+While the Business and Professional plans show strong stability and upgrade activity, the **starter-monthly** segment represents a significant risk area with an **84% churn rate**.The following sections will dive deep into the important metrics.
+
+![Overview](images/Overview.png)
+
+
