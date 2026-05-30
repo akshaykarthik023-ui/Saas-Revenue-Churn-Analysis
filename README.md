@@ -61,4 +61,15 @@ While the Business and Professional plans show strong stability and upgrade acti
 - The customer lifetime value(CLV) is 7951 dollars.
 - The CLV: CAC Ratio is 39.7, which is a healthy ratio.
 - Enterprise plan customers have a CLV of 43,417 dollars, and with a CLV of 19120 dollars, the Business plan comes second.
+
+  ![unit](images/Unit_eco.png).
+
+### At-Risk Indicators
+- Out of 287 active customers, 27 are at risk.
+- Customers from North America has 40.88% churn rate.
+- The industry with the highest churn rate is Education.
+- The Companies who take the starter plan with a monthly payment and with less than 100 employees have 84% churn rate, also The Customer acquisition cost for this   segment is more than 2k.
+- Customers with The behavioral churn indicators: nps_score < 4 and feature_usage_pct < 36 can be considered at Risk.
+
+  ![at_risk](images/At-Risk.png)
   
