@@ -48,4 +48,17 @@ While the Business and Professional plans show strong stability and upgrade acti
 - 16 percent of companies churned gave the reason of `"Budget cuts"`,  and another 16 percent said `"Price too High"`.
 
  ![visual](images/churnanalys.png)  ![Churn visual](images/Churn.png)
+
+### Revenue Analysis
+- 83% CAGR was recorded during the years 2022-2025, in which 2025 saw the highest revenue.
+- The Average monthly revenue is higher in the Enterprise plan, and the Business plan comes second.
+- The Average Revenue Per User(ARPU) is 1029.3. The manufacturing industry has the highest ARPU of 1.3k.
+
+  ![revenue](images/Revenue.png)
+
+### Unit Economics
+- Companies are on average 9.73 months active as customers.
+- The customer lifetime value(CLV) is 7951 dollars.
+- The CLV: CAC Ratio is 39.7, which is a healthy ratio.
+- Enterprise plan customers have a CLV of 43,417 dollars, and with a CLV of 19120 dollars, the Business plan comes second.
   
