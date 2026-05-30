@@ -23,7 +23,7 @@ Insights and recommendations are provided on the following key areas:
 
   The SQL queries can be found [here](MSSQL/Query.sql).
   
-  The DAX measures can be found [here](DAX).
+  The DAX measures can be found [here](DAX/measures.dax).
   
   The Python code can be found [here](python).
   
