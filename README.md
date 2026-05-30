@@ -83,5 +83,6 @@ While the Business and Professional plans show strong stability and upgrade acti
 ### Caveats
 - Signup_date was a string and had to be changed to a date type.
 - The monthly revenue table had a month column which was in format 'yyyy-MM' and signup_date in the subscriptions table was in 'yyyy-MM-DD,' so it had to be changed to the first of the month for the columns to have the same value to so that tables can be joined.
+- Used the 75th percentile statistic on columns nps_score and feature_usage_pct to flag at-risk customers.
 ### Assumptions
 - Numbers that represented price was assumed to be in dollars.
