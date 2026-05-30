@@ -30,7 +30,7 @@ Insights and recommendations are provided on the following key areas:
   The visualizations can be found [here](vis).
 
 ## Data Structure
-CloudTask Pro's Datasets consist of 2 tables
+CloudTask Pro's Datasets consist of 2 tables: subscriptions and monthly_revenue, having a total of 648 rows.
 
 ![ERD](images/erd_diagram.png)
 
