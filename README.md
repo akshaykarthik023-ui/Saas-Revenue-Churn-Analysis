@@ -21,7 +21,7 @@ Insights and recommendations are provided on the following key areas:
 - **Business Intelligence:** Developed an interactive, 4-page diagnostic application in **Power BI Desktop** driven by custom DAX business
   logic and vertical asynchronous UI.
 
-  The SQL queries can be found [here](sql).
+  The SQL queries can be found [here](MSSQL/Query.sql).
   
   The DAX measures can be found [here](DAX).
   
