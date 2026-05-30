@@ -72,4 +72,16 @@ While the Business and Professional plans show strong stability and upgrade acti
 - Customers with The behavioral churn indicators: nps_score < 4 and feature_usage_pct < 36 can be considered at Risk.
 
   ![at_risk](images/At-Risk.png)
-  
+
+## Recommendations
+- The company can create an automatic alert system for Customers who's nps_score comes down to 4 and feature_usage_pct becomes 36 or less, and give them extra care or attention to keep them as customers, especially those high-paying customers.
+-  The company should keep an eye on the wasted customer acquisition cost. The segment that caused the most wasted CAC is starter - monthly - under 100 company size companies. Cut the budget to these segments and shift those dollars into high-retention, high Lifetime Value customers who are included in the Enterprise and business plan.
+-  16 percent of customers churned, told reason for churn was "Price too high",13.42 percent said "poor support", and 12.78 percent said "missing features".The company can do something about 43 percent of these reasons customers churned. Give a thorough analysis on if change is needed or not.
+-  Churned MRR has increased in 2025, were september 2025 saw 16k worth of mrr churned. If ARPU remains stagnant and churned MRR increases, it means the company is losing high-paying customers and replacing them with low-tier accounts. The company should increase the revenue from dedicated active accounts by making them pay by usage(utility-based pricing) or adding more features, and charging them to pay extra.
+
+## Caveats and Assumptions
+### Caveats
+- Signup_date was a string and had to be changed to a date type.
+- The monthly revenue table had a month column which was in format 'yyyy-MM' and signup_date in the subscriptions table was in 'yyyy-MM-DD,' so it had to be changed to the first of the month for the columns to have the same value to so that tables can be joined.
+### Assumptions
+- Numbers that represented price was assumed to be in dollars.
