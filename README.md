@@ -31,6 +31,7 @@ Insights and recommendations are provided on the following key areas:
 
 ## Data Structure
 CloudTask Pro's Datasets consist of 2 tables: subscriptions and monthly_revenue, having a total of 648 rows.
+The tables were joined using the month column in the monthly_revenue table and the signed_up column in the subscriptions table with many-to-one cardinality.
 
 ![ERD](images/erd_diagram.png)
 
