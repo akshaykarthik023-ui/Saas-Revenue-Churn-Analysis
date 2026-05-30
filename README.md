@@ -47,5 +47,5 @@ While the Business and Professional plans show strong stability and upgrade acti
 - Segment that showed the highest churn rate(84%) is Starter-Monthly with less than 100 employees.
 - 16 percent of companies churned gave the reason of `"Budget cuts"`,  and another 16 percent said `"Price too High"`.
 
-  ![Churn visual](images/Churn.png)
-  ![visual](images/)
+ ![visual](images/churnanalys.png)  ![Churn visual](images/Churn.png)
+  
