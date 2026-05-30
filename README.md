@@ -27,7 +27,7 @@ Insights and recommendations are provided on the following key areas:
   
   The Python code can be found [here](Heatmap/heatmap.py).
   
-  The visualizations can be found [here](vis).
+  The visualizations can be found [here](images).
 
 ## Data Structure
 CloudTask Pro's Datasets consist of 2 tables: subscriptions and monthly_revenue, having a total of 648 rows.
