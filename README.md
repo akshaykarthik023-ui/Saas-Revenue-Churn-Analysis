@@ -22,6 +22,17 @@ Insights and recommendations are provided on the following key areas:
   logic and vertical asynchronous UI.
 
   The SQL queries can be found [here](sql).
+  
   The DAX measures can be found [here](DAX).
+  
   The Python code can be found [here](python).
+  
   The visualizations can be found [here](vis).
+
+## Data Structure
+CloudTask Pro's Datasets consist of 2 tables
+
+![ERD](images/erd_diagram.png)
+
+## Executive Summary
+### Overview of Findings
