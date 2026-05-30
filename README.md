@@ -42,4 +42,6 @@ While the Business and Professional plans show strong stability and upgrade acti
 
 ![Overview](images/Overview.png)
 
-
+### Churn Analysis
+- Out of 600 Customers, 52.17% of customers churned, now a total of 287 customers are currently active.
+- Segment that showed the highest churn rate(84%) is Starter-Monthly with less than 100 employees.
