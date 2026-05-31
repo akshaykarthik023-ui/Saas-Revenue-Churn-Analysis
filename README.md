@@ -71,7 +71,7 @@ While the Business and Professional plans show strong stability and upgrade acti
 - The Companies who take the starter plan with a monthly payment and with less than 100 employees have 84% churn rate, also The Customer acquisition cost for this   segment is more than 2k.
 - Customers with The behavioral churn indicators: nps_score < 4 and feature_usage_pct < 36 can be considered at Risk.
 
-  ![at_risk](images/At-Risk.png)
+  ![at_risk](images/At-Risk.png) ![heatmap](images/heat_map.png)
 
 ## Recommendations
 - The company can create an automatic alert system for Customers who's nps_score comes down to 4 and feature_usage_pct becomes 36 or less, and give them extra care or attention to keep them as customers, especially those high-paying customers.
